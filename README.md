@@ -1,6 +1,6 @@
 # MomentumFlow
 
-MomentumFlow is a sleek and responsive SaaS landing page template designed to help businesses streamline their workflow and boost productivity. This project showcases a modern design with a focus on user engagement and conversion.&#8203;:contentReference[oaicite:2]{index=2}
+MomentumFlow is a sleek and responsive SaaS landing page template designed to help businesses streamline their workflow and boost productivity. This project showcases a modern design with a focus on user engagement and conversion.
 
 ## Features
 
